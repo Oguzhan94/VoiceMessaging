@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Telsiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signUp">Kayıt Ol</string>
+    <string name="email">E-postanızı Giriniz</string>
+    <string name="password">Şifrenizi Giriniz</string>
+    <string name="name">İsminizi Giriniz</string>
+    <string name="surname">Soyisminizi Giriniz</string>
+    <string name="title">Unvanınızı Giriniz</string>"
+    <string name="addRoomName">Oda İsmini Giriniz</string>
+    <string name="add">Ekle</string>
+    <string name="cancel">İptal</string>
+    <string name="roomNameCanNotBeEmpty">Oda İsmi Boş Olamaz</string>
+    <string name="successRoomAdd">Oda Ekleme Başarılı</string>
+    <string name="addRoom">Oda Ekle</string>
+    <string name="signOut">Çıkış Yap</string>
+    <string name="userAddAndDelete">Kullanıcı Ekle Ve Sil</string>
+    <string name="record">Kaydet</string>
+    <string name="delete">Sil</string>"
+    <string name="stop">Durdur</string>
+    <string name="send">Gönder</string>
+    <string name="mute">Sessize Al</string>
+    <string name="unMute">Sesini Aç</string>
+    <string name="notificationMessage">Kişisinden gelen mesaj</string>
+
+</resources>
